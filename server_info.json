@@ -1,0 +1,15 @@
+{
+  "machine_name": "WIN-P7MA35DRF6Q",
+  "os": "Windows",
+  "os_version": "10.0.20348",
+  "listen_host": "0.0.0.0",
+  "listen_port": 8001,
+  "lan_ip": "141.11.0.231",
+  "public_ip": "141.11.0.231",
+  "external_ip": "141.11.0.231",
+  "external_port": 8001,
+  "upnp_forwarded": false,
+  "connect_url": "http://141.11.0.231:8001/api",
+  "updated_at": "2026-08-24T21:32:11.062820Z",
+  "note": "If upnp_forwarded is false, manually forward 8001/TCP to 141.11.0.231:8001 on the router/firewall."
+}
