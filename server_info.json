@@ -10,6 +10,6 @@
   "external_port": 8001,
   "upnp_forwarded": false,
   "connect_url": "http://141.11.0.231:8001/api",
-  "updated_at": "2026-08-24T21:32:11.062820Z",
+  "updated_at": "2026-08-25T08:04:51.908788Z",
   "note": "If upnp_forwarded is false, manually forward 8001/TCP to 141.11.0.231:8001 on the router/firewall."
 }
