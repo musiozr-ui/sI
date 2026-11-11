@@ -1,15 +1,15 @@
 {
-  "machine_name": "WIN-P7MA35DRF6Q",
+  "machine_name": "WIN-DIAKOWEB-2025",
   "os": "Windows",
-  "os_version": "10.0.20348",
+  "os_version": "10.0.26100",
   "listen_host": "0.0.0.0",
   "listen_port": 8001,
-  "lan_ip": "141.11.0.231",
-  "public_ip": "141.11.0.231",
-  "external_ip": "141.11.0.231",
+  "lan_ip": "169.128.116.105",
+  "public_ip": "169.128.116.105",
+  "external_ip": "169.128.116.105",
   "external_port": 8001,
   "upnp_forwarded": false,
-  "connect_url": "http://141.11.0.231:8001/api",
-  "updated_at": "2026-09-10T09:35:13.791014Z",
-  "note": "If upnp_forwarded is false, manually forward 8001/TCP to 141.11.0.231:8001 on the router/firewall."
+  "connect_url": "http://169.128.116.105:8001/api",
+  "updated_at": "2026-11-11T05:25:58.636813Z",
+  "note": "If upnp_forwarded is false, manually forward 8001/TCP to 169.128.116.105:8001 on the router/firewall."
 }
