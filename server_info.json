@@ -10,6 +10,6 @@
   "external_port": 8001,
   "upnp_forwarded": false,
   "connect_url": "http://169.128.116.105:8001/api",
-  "updated_at": "2026-11-14T19:10:06.234669Z",
+  "updated_at": "2026-11-16T16:33:23.876446Z",
   "note": "If upnp_forwarded is false, manually forward 8001/TCP to 169.128.116.105:8001 on the router/firewall."
 }
